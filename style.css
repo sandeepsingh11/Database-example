@@ -1,0 +1,15 @@
+html {
+  margin: 0 5%;
+  background-color: #333;
+  color: gray;
+}
+
+#intro {
+  margin-bottom: 8%;
+}
+
+#form {
+  padding: 20px;
+  margin-left: 8%;
+  margin-right: 8%;
+}
