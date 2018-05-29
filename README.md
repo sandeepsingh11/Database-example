@@ -1,1 +1,3 @@
 # Database example
+
+Add record to the magical vault and retrieve what is already stored in the vault! Yay...
